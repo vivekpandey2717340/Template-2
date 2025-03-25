@@ -28,7 +28,7 @@ const Hero = () => {
           </div>
           <div className="md:w-1/2 relative">
             <img
-              src="https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=800&q=80"
+              src="https://res.cloudinary.com/dq76pknoe/image/upload/v1742910339/mhxbathleh8ek8gnfqot.png"
               alt="Doctor"
               className="rounded-lg shadow-xl"
             />
